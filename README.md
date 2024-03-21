@@ -1,8 +1,8 @@
-# Welcome to Code Club!
+# Welcome to Code Camp!
 
 Join us at the Catoosa County Library every Wednesday from June 5 through August 28, between 3:00 and 5:00. <br>
 
-You can work on any project you want. We have a ton of suggestions to help you get started creating something awesome. <br>
+You can work on any project you want. We have a ton of suggestions to help you get started creating something awesome. There are some ideas at the bottom... <br>
 
 If you don't know what you want to do, our club leader will work with you to find something fun to start with. Maybe you want to build a game, or a website, or a circuit board, or a robot -- the opportunities are endless! <br>
 
@@ -19,7 +19,7 @@ You will need to bring one or more of the following: <br>
 
 ## A note on accounts...
 
-You are not required to create any online accounts to participate. <br>
+**You are not required to create any online accounts to participate.** <br>
 
 However, it may be helpful to create the following accounts to save your work, share your work, and contribute to other people's projects. You can create these in advance or at Code Club.
 
@@ -27,3 +27,16 @@ However, it may be helpful to create the following accounts to save your work, s
 - Google
 - Microsoft
 - Scratch
+
+## Help! I don't know where to start!
+
+If you're just starting out, check out [Scratch](https://scratch.mit.edu). <br>
+
+If you want to program a [micro:bit](https://microbit.org), head over to [MakeCode](https://makecode.microbit.org). <br>
+
+For more advanced topics like Python, HTML/CSS/JavaScript, and machine learning, try:
+
+- [HackClub Jams](https://jams.hackclub.com/)
+- [Kaggle](https://www.kaggle.com/learn)
+- [Raspberry Pi Foundation](https://www.raspberrypi.org/learn)
+- [Khan Academy](https://www.khanacademy.org/computing)
