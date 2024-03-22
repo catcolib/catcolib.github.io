@@ -1,4 +1,4 @@
-# Welcome to Code Camp!
+# Welcome to Code Club!
 
 Join us at the Catoosa County Library every Wednesday from June 5 through August 28, between 3:00 and 5:00. <br>
 
